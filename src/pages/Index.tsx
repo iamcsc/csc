@@ -31,9 +31,7 @@ const showcase = [
     title: "Card Three",
   },
   {
-    label: "Four",
-    img: "lovable-uploads/1.png",
-    title: "Card Four",
+    
   },
   {
     label: "Five",
